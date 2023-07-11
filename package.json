@@ -1,7 +1,7 @@
 {
   "name": "doc-appoinment-system",
   "version": "1.0.0",
-  "description": "Mern Stack Doctor appointment system project code\r # Check Branches for complete project code\r project tutorials link:\r https://youtube.com/playlist?list=PLuHGmgpyHfRw0wBGN8knxsJsMi74r34zw",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "techinfyt",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
