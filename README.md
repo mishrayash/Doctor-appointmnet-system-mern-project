@@ -22,4 +22,12 @@ MediConnect is a simple Doctor Appointment application that helps you book an ap
    - Used Node.js as the server-side runtime environment for high-performance server operations.
    - Employed Express.js, a robust web application framework, to handle HTTP requests and responses effectively.
 
+## How to Start
+
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd doc-appointment-system`
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
+5. Start the client (React app): `npm run client`
+6. Alternatively, run both server and client concurrently: `npm run dev`
 
